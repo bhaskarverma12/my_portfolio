@@ -9,7 +9,6 @@
 
 <img width="100%" alt="Portfolio Screenshot" src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/fd0d70b2-1505-4adf-8b0c-427df58607e3">
 
-
 :star: Star me on GitHub — it helps!
 
 # Sections 📚
@@ -26,7 +25,6 @@
 - Add or remove images from `https://www.vinodjangid.me/src/` directory as per your requirement.
 - ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
 
-
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
@@ -35,5 +33,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 * [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
 * [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
-
-Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
