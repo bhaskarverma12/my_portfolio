@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Bhaskar Tech Portfolio
+# my_portfolio
 
-Welcome to **Bhaskar Tech Portfolio**!  
+Welcome to **my_portfolio**!  
 This project showcases the portfolio of Bhaskar Verma, a web developer and digital visual artist. Explore my projects, skills, and creative work, all built with a focus on clean design, thoughtful interactions, and modern web technologies.
 
 ---
@@ -39,11 +38,11 @@ This project showcases the portfolio of Bhaskar Verma, a web developer and digit
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/bhaskarverma12/bhaskar-tech.git
+   git clone https://github.com/bhaskarverma12/my_portfolio.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd bhaskar-tech
+   cd my_portfolio
    ```
 3. **Open `index.html` in your browser to view the portfolio.**
 
@@ -70,6 +69,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
-=======
-# my_portfolio
->>>>>>> 085e212458a1dffd85915c38c4be7b24ac8f7a46
