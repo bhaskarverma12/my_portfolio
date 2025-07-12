@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bhaskar Tech Portfolio
 
 Welcome to **Bhaskar Tech Portfolio**!  
@@ -69,3 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
+=======
+# my_portfolio
+>>>>>>> 085e212458a1dffd85915c38c4be7b24ac8f7a46
